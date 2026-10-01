@@ -1,5 +1,6 @@
 # Raspberry Pi Performance & Metrics Lab 🥼📊
 
+DENEME
 Welcome to this hands‑on lab! Today you’ll explore how to measure CPU speed, memory usage, storage I/O, network performance, and temperature on your Raspberry Pi.
 
 ## 🧠 What You'll Learn
